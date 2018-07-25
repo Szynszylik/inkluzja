@@ -1,0 +1,58 @@
+= 1.2.1(07.06.2018) =
+
+Changed:
+-requested script handles to embed that was changed in Apollo13 Framework 1.8.0
+
+----------------
+= 1.2.0(25.04.2018) =
+
+Improved:
+-moved Apollo13 Framework widgets from theme to plugin. It gives more flexible option to move to different theme
+
+----------------
+= 1.1.5(09.04.2018) =
+
+Fixed:
+-problem with flushed permalinks on plugin activation making works/albums not working without permalink reset
+
+----------------
+= 1.1.4(07.04.2018) =
+
+Plugin released to WordPress plugin repository
+
+Added:
+-check for double instance of plugin for safety
+
+Fixed:
+-Fatal error that was happening when user had installed previous version not hosted on WordPress.org
+
+----------------
+= 1.1.3(26.03.2018) =
+
+Added:
+-Marking WPBakery as bundled in theme if it is delivered with theme
+
+----------------
+= 1.1.2(21.02.2018) =
+
+Fixed:
+-not working when theme is renamed
+-failing with error when switching to not supported theme
+
+----------------
+= 1.1.1(5.01.2018) =
+
+Added:
+-support for Rife Free
+
+----------------
+= 1.1.0(5.01.2018) =
+
+Added:
+-support for new theme shortcodes
+
+----------------
+
+= 1.0.0(20.07.2016) =
+
+-Initial release
